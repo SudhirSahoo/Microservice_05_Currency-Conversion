@@ -1,0 +1,4 @@
+spring.application.name=currency-conversion
+server.port=8002
+logging.level.org.springframework=ERROR 
+logging.level.com.skumar=DEBUG
